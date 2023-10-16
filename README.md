@@ -1,7 +1,7 @@
 # Hactoberfest 2023
 ![image](https://github.com/Nishant-Pandey-2004/Hacktoberfest2023/assets/113779980/14c10ecf-b4df-4f3d-bada-b0f4e42c0456)
 
-A beginner-friendly project to help you in open-source contribution. Made specifically for contribution in HACKTOBERFEST 2023! Hello World Programs and Algorithms! Please leave a star ⭐ to support this project! 
+A beginner-friendly project to help you in open-source contribution. Made specifically for contribution in HACKTOBERFEST 2023! Hello World Programs and Algorithms! Please leave a star <img src="https://static.vecteezy.com/system/resources/previews/004/057/706/non_2x/gold-star-decoration-free-vector.jpg" height="50px"> to support this project! 
 ![](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
 # This All programs For beginner 
@@ -38,12 +38,12 @@ So, yes! You can win digital swag kit 😎 to showcase in your profile. On plus 
 # 👍 This is Awesome! How Can I Contribute?
 
 It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
-1. **Star this repository.⭐**
-3. **Add your programs in any programming language.**
-4. **Now click on Propose button.**
-5. **Create a new pull request.**
-6. **Wait for your Pull Request to be reviewed and merged!**
-7. **Enjoy and welcome to Hacktoberfest 2023 and Keep Contributing :)**
+1. <strong>Star this repository. <img src="https://static.vecteezy.com/system/resources/previews/004/057/706/non_2x/gold-star-decoration-free-vector.jpg" height="50px"></strong>
+2. **Add your programs in any programming language.**
+3. **Now click on Propose button.**
+4. **Create a new pull request.**
+5. **Wait for your Pull Request to be reviewed and merged!**
+6. **Enjoy and welcome to Hacktoberfest 2023 and Keep Contributing :)**
 
 > You Can Upload Coded Projects In the Codes Directory 
 
